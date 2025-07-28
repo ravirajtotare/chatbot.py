@@ -30,17 +30,6 @@ The chatbot continuously takes user input via the terminal and responds based on
 
 ```bash
 python chatbot.py
-🤖 Hello! I am your chatbot. Type 'bye' to exit.
 
-You: hello
-Bot: Hello! How can I help you?
 
-You: what's your name?
-Bot: I am your simple Python chatbot.
-
-You: how are you?
-Bot: I'm just code, but I'm doing great! How about you?
-
-You: bye
-Bot: Goodbye! Have a great day 😊
 ###---------------THANK YOU FOR VISITING RAVI'S PROJECT--------------
