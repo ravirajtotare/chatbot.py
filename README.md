@@ -28,8 +28,4 @@ The chatbot continuously takes user input via the terminal and responds based on
 2. Open a terminal in the project folder.
 3. Run the script:
 
-```bash
-python chatbot.py
-
-
 ###---------------THANK YOU FOR VISITING RAVI'S PROJECT--------------
